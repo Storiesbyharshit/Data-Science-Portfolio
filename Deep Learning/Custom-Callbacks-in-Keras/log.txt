@@ -1,0 +1,22 @@
+Start of log
+Epoch:00, Learning Rate:0.0180, Train Acc:0.766, Val Acc:0.909
+Epoch:01, Learning Rate:0.0162, Train Acc:0.922, Val Acc:0.932
+Epoch:02, Learning Rate:0.0146, Train Acc:0.936, Val Acc:0.932
+Epoch:03, Learning Rate:0.0131, Train Acc:0.945, Val Acc:0.941
+Epoch:04, Learning Rate:0.0118, Train Acc:0.950, Val Acc:0.948
+Epoch:05, Learning Rate:0.0106, Train Acc:0.953, Val Acc:0.950
+Epoch:06, Learning Rate:0.0096, Train Acc:0.957, Val Acc:0.953
+Epoch:07, Learning Rate:0.0086, Train Acc:0.959, Val Acc:0.954
+Epoch:08, Learning Rate:0.0077, Train Acc:0.961, Val Acc:0.955
+Epoch:09, Learning Rate:0.0070, Train Acc:0.963, Val Acc:0.954
+Epoch:10, Learning Rate:0.0063, Train Acc:0.963, Val Acc:0.956
+Epoch:11, Learning Rate:0.0056, Train Acc:0.965, Val Acc:0.959
+Epoch:12, Learning Rate:0.0051, Train Acc:0.965, Val Acc:0.958
+Epoch:13, Learning Rate:0.0046, Train Acc:0.967, Val Acc:0.959
+Epoch:14, Learning Rate:0.0041, Train Acc:0.968, Val Acc:0.958
+Epoch:15, Learning Rate:0.0037, Train Acc:0.968, Val Acc:0.960
+Epoch:16, Learning Rate:0.0033, Train Acc:0.969, Val Acc:0.960
+Epoch:17, Learning Rate:0.0030, Train Acc:0.969, Val Acc:0.960
+Epoch:18, Learning Rate:0.0027, Train Acc:0.970, Val Acc:0.958
+Epoch:19, Learning Rate:0.0024, Train Acc:0.970, Val Acc:0.960
+End of log
