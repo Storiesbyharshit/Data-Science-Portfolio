@@ -1,4 +1,4 @@
-#Time Series Analysis
+# Time Series Analysis
 
 Time series is a sequence of data points recorded in time order, often taken at successive equally paced points in time.
 Time series data can be taken yearly, monthly, weekly, hourly or even by the minute.
