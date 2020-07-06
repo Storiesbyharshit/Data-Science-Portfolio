@@ -12,4 +12,4 @@ converted to/from NumPy arrays.
 
 This makes it easier to integrate it with other libraries which use NumPy. For example, libraries such as SciPy and Matplotlib.
 
-Next up on this OpenCV Python Tutorial blog, let us look at some of the basic operations that we can perform with OpenCV.  
+
