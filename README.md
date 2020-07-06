@@ -20,4 +20,4 @@ Tensorflow.js |Develop ML models in JavaScript, and use ML directly in the brows
 OpenCV | OpenCV is a library of programming functions mainly aimed at real-time computer vision. 
 
 
-/github/repo-size/:user/:repo /github/languages/code-size/:user/:repo
+/github/repo-size/:Storiesbyharshit/:Data-Science-Portfolio
