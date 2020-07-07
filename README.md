@@ -20,4 +20,9 @@ Tensorflow.js |Develop ML models in JavaScript, and use ML directly in the brows
 OpenCV | OpenCV is a library of programming functions mainly aimed at real-time computer vision. 
 
 
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/chauhannaman98/MedFixture?style=for-the-badge">
+</p>
+
 
