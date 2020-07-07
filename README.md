@@ -24,5 +24,13 @@ OpenCV | OpenCV is a library of programming functions mainly aimed at real-time 
   <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/chauhannaman98/MedFixture?style=for-the-badge">
 </p>
-
+<p align="center">
+  <img alt="Travis (.com) branch" src="https://img.shields.io/travis/com/Storiesbyharshit/Data-Science-Portfolio/master?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
+  <img alt="GitHub License" src="https://img.shields.io/github/license  <img alt="GitHub License" src="https://img.shields.io/github/license/Storiesbyharshit/Data-Science-Portfoliostyle=flat-square">
+?style=flat-square">
+</p>
 
