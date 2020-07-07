@@ -29,3 +29,36 @@ and equally valid clusters.
   - Agglomerative (bottom up approach)
   - Divisive (top down approach)
 examples CURE (Clustering Using Representatives), BIRCH (Balanced Iterative Reducing Clustering and using Hierarchies) etc.
+
+
+
+
+### Applications of Clustering
+Clustering has a large no. of applications spread across various domains. Some of the most popular applications of clustering are:
+
+* Recommendation engines
+* Market segmentation
+* Social network analysis
+* Search result grouping
+* Medical imaging
+* Image segmentation
+* Anomaly detection
+
+#### Clustering Algorithms
+
+Several approaches to clustering exist.Below is a short discussion of four common approaches :
+#### Centroid-based Clustering
+Centroid-based clustering organizes the data into non-hierarchical clusters, in contrast to hierarchical clustering defined below. k-means is the most widely-used centroid-based clustering algorithm. Centroid-based algorithms are efficient but sensitive to initial conditions and outliers. This course focuses on k-means because it is an efficient, effective, and simple clustering algorithm.
+
+
+#### Density-based Clustering
+Density-based clustering connects areas of high example density into clusters. This allows for arbitrary-shaped distributions as long as dense areas can be connected. These algorithms have difficulty with data of varying densities and high dimensions. Further, by design, these algorithms do not assign outliers to clusters.
+
+
+#### Distribution-based Clustering
+This clustering approach assumes data is composed of distributions, such as Gaussian distributions. In Figure 3, the distribution-based algorithm clusters data into three Gaussian distributions. As distance from the distribution's center increases, the probability that a point belongs to the distribution decreases. The bands show that decrease in probability. When you do not know the type of distribution in your data, you should use a different algorithm.
+
+
+#### Hierarchical Clustering
+Hierarchical clustering creates a tree of clusters. Hierarchical clustering, not surprisingly, is well suited to hierarchical data, such as taxonomies. See Comparison of 61 Sequenced Escherichia coli Genomes by Oksana Lukjancenko, Trudy Wassenaar & Dave Ussery for an example. In addition, another advantage is that any number of clusters can be chosen by cutting the tree at the right level.
+
