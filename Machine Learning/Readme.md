@@ -54,6 +54,13 @@ We can define the machine learning workflow in following stages.
 * Researching the model that will be best for the type of data
 * Training and testing the model
 * Evaluation
+https://github.com/Storiesbyharshit/Data-Science-Portfolio
+<p align="center">
+  <a href="https://github.com/Storiesbyharshit/Data-Science-Portfolio">
+    <img src="Machine Learning/Deep-Space-Exoplanet/workflow.png" alt="what-is-it-window">
+  </a>
+</p>
+
 
 ###### Difference between Machine learning and Artificial Intelligence
 > Artificial Intelligence : The word Artificial Intelligence comprises of two words “Artificial” and “Intelligence”. Artificial refers to something which is made by human or non natural thing and Intelligence means ability to understand or think. There is a misconception that Artificial Intelligence is a system, but it is not a system .AI is implemented in the system. There can be so many definition of AI, one definition can be “It is the study of how to train the computers so that computers can do things which at present human can do better.”Therefore It is a intelligence where we want to add all the capabilities to machine that human contain.
