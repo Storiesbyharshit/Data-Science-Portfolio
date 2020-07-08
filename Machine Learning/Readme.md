@@ -56,7 +56,7 @@ We can define the machine learning workflow in following stages.
 * Evaluation
 
 <p align="center">
-  <a href="https://github.com/Storiesbyharshit/Data-Science-Portfolio">
+  <a href="https://github.com/Storiesbyharshit/Data-Science-Portfolio/Machine Learning/Deep-Space-Exoplanet">
     <img src="Machine Learning/Deep-Space-Exoplanet/workflow.png" alt="workflow">
   </a>
 </p>
