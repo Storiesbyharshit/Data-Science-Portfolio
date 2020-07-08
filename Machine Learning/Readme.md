@@ -26,8 +26,9 @@ Another categorization of machine learning tasks arises when one considers the d
 
 ##### Basic Difference in ML and Traditional Programming?
 
-> **Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
-> Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.**
+> **Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.**
+
+> **Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.**
  
 
 
