@@ -18,4 +18,23 @@ Another categorization of machine learning tasks arises when one considers the d
 * **Classification** : When inputs are divided into two or more classes, and the learner must produce a model that assigns unseen inputs to one or more (multi-label classification) of these classes. This is typically tackled in a supervised way. Spam filtering is an example of classification, where the inputs are email (or other) messages and the classes are “spam” and “not spam”.
 * **Regression** : Which is also a supervised problem, A case when the outputs are continuous rather than discrete.
 * **Clustering** : When a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task.
-  
+
+
+
+
+
+
+##### Basic Difference in ML and Traditional Programming?
+
+> **Traditional Programming : We feed in DATA (Input) + PROGRAM (logic), run it on machine and get output.
+> Machine Learning : We feed in DATA(Input) + Output, run it on machine during training and the machine creates its own program(logic), which can be evaluated while testing.**
+ 
+
+
+A computer is said to be learning from Experiences with respect to some class of Tasks, if its performance in a given Task improves with the Experience.
+
+__A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E__
+
+
+
+
