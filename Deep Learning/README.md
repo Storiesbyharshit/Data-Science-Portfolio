@@ -8,11 +8,11 @@ Deep learning architectures such as deep neural networks, deep belief networks, 
 
 ##### Advantages :
 
->Best in-class performance on problems.
->Reduces need for feature engineering.
->Eliminates unnecessary costs.
->Identifies defects easily that are difficult to detect.
+>* Best in-class performance on problems.
+>* Reduces need for feature engineering.
+>* Eliminates unnecessary costs.
+>* Identifies defects easily that are difficult to detect.
 ##### Disadvantages :
 
->Large amount of data required.
->Computationally expensive to train.
+>* Large amount of data required.
+>* Computationally expensive to train.
