@@ -54,10 +54,10 @@ We can define the machine learning workflow in following stages.
 * Researching the model that will be best for the type of data
 * Training and testing the model
 * Evaluation
-https://github.com/Storiesbyharshit/Data-Science-Portfolio
+
 <p align="center">
   <a href="https://github.com/Storiesbyharshit/Data-Science-Portfolio">
-    <img src="Machine Learning/Deep-Space-Exoplanet/workflow.png" alt="what-is-it-window">
+    <img src="Machine Learning/Deep-Space-Exoplanet/workflow.png" alt="workflow">
   </a>
 </p>
 
