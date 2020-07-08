@@ -47,6 +47,14 @@ Example: Some tuples may have missing values for certain attributes, an, in this
 * Building models with suitable algorithms and techniques on the training set.
 * Testing our conceptualized model with data which was not fed to the model at the time of training and evaluating its performance using metrics such as F1 score, precision and recall.
 
+#### Workflow 
+We can define the machine learning workflow in following stages.
+* Gathering data
+* Data pre-processing
+* Researching the model that will be best for the type of data
+* Training and testing the model
+* Evaluation
+
 ###### Difference between Machine learning and Artificial Intelligence
 > Artificial Intelligence : The word Artificial Intelligence comprises of two words “Artificial” and “Intelligence”. Artificial refers to something which is made by human or non natural thing and Intelligence means ability to understand or think. There is a misconception that Artificial Intelligence is a system, but it is not a system .AI is implemented in the system. There can be so many definition of AI, one definition can be “It is the study of how to train the computers so that computers can do things which at present human can do better.”Therefore It is a intelligence where we want to add all the capabilities to machine that human contain.
 
