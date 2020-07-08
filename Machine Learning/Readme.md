@@ -55,11 +55,6 @@ We can define the machine learning workflow in following stages.
 * Training and testing the model
 * Evaluation
 
-<p align="center">
-  <a href="https://github.com/Storiesbyharshit/Data-Science-Portfolio/Machine Learning/Deep-Space-Exoplanet">
-    <img src="Machine Learning/Deep-Space-Exoplanet/workflow.png" alt="workflow">
-  </a>
-</p>
 
 
 ###### Difference between Machine learning and Artificial Intelligence
