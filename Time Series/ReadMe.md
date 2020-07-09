@@ -25,3 +25,8 @@ It is not always necessary that the increase or decrease is consistently in the 
 
 * Modelling: Naive approach, Moving average, Auto Regression Integrated Moving Average(ARIMA), SARIMAX, etc.
 * Evaluation: Mean Square Error(MSE), Root Mean Squared Error(RMSE) etc.
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
