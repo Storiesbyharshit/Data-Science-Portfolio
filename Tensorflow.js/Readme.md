@@ -13,7 +13,6 @@
 
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/Storiesbyharshit/Data-Science-Portfolio/Tensorflow.js?style=flat-square">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Storiesbyharshit/Data-Science-Portfolio/Tensorflow.js?style=flat-square">
- 
+  
 
 </p>
