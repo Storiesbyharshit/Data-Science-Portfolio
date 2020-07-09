@@ -10,3 +10,7 @@ It has following major Components :
 * **Environment** : A task/simulation which needs to be solved by the Agent.
 * **Action** : How agent interacts with environment .
 * **Reward** :  A reward Rt is a scalar feedback signal that indicates how well the agent is doing at time step t. The agent’s job is to maximize the expected sum of rewards.
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
