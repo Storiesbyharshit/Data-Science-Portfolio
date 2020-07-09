@@ -11,9 +11,9 @@
 </p>
 <p align="center">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Storiesbyharshit/Data-Science-Portfolio/Tensorflow.js?style=flat-square">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Storiesbyharshit/Data-Science-Portfolio/Tensorflow.js?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Storiesbyharshit/Data-Science-Portfolio/Tensorflow.js?style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Storiesbyharshit/Data-Science-Portfolio/Tensorflow.js?style=flat-square">
 
 </p>
