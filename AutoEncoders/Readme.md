@@ -20,3 +20,7 @@ forcing the input through the network's bottleneck.
 _**The training then involves using back propagation in order to minimize the network’s reconstruction loss.**_
 
 
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
