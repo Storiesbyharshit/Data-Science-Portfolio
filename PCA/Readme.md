@@ -16,3 +16,8 @@ information from complex and confusing data sets. Principal component analysis i
 One of the distinct advantages associated with the principal component analysis is that once patterns are found in the concerned data, compression of data is also supported.
 One makes use of principal component analysis to eliminate the number of variables or when there are too many predictors compared to number of observations or
 to avoid multicollinearity.
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
