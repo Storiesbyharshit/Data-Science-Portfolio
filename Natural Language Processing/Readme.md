@@ -22,3 +22,8 @@ Some of the projects developers can use NLP algorithms for are:
 * Identify the type of entity extracted, such as it being a person, place, or organization using Named Entity Recognition.
 * Use Sentiment Analysis to identify the sentiment of a string of text, from very negative to neutral to very positive.
 * Reduce words to their root, or stem, using PorterStemmer, or break up text into tokens using Tokenizer.
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
