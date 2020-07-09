@@ -13,3 +13,7 @@ converted to/from NumPy arrays.
 This makes it easier to integrate it with other libraries which use NumPy. For example, libraries such as SciPy and Matplotlib.
 
 
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
