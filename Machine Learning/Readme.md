@@ -74,3 +74,8 @@ AI is decision making.	 | ML allows system to learn new things from data.
 It leads to develop a system to mimic human to respond behave in a circumstances. | 	It involves in creating self learning algorithms.
 AI will go for finding the optimal solution. | 	ML will go for only solution for that whether it is optimal or not.
 AI leads to intelligence or wisdom. | 	ML leads to knowledge.
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+  
+</p>
