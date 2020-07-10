@@ -66,7 +66,7 @@ o Python 3
 
 o Essential Libraries
 
-Modules used are namely :
+##### Modules used are namely :
 
 
 • tensorflow
@@ -80,6 +80,41 @@ Modules used are namely :
 • numpy
 
 • pandas
+
+
+Autoencoder neural network is an unsupervised learning algorithm that applies backpropagation,
+setting the target values to be equal to the inputs.
+To do so it converts the input into a latent space of reduced dimensions using a encoder part and
+then again reconstructs it using decoder , the result of this whole cycle of construction and
+reconstruction consist of a single epoch . It is trained over multiple such epochs and it gets better
+over time .
+The output is evaluated using a defined loss function which over time predicts how good is the
+reconstruction of the input and with every epoch it tries to reduce the loss and improves accuracy
+over time . 
+
+We can twist these networks a little and take advantages of the reduced latent space to represent
+the reduced dimensions and train these networks over multiple images of the desired output of
+the same image to train the network in the way we can extract the desired results from the dataset
+
+> Like in the noise reduction model we will label our input dataset as a noisy image in the working directory and the output labels to clean images and train the model to generate noiseless images and reducing the loss function over it .
+
+> In the super resolution we will blur the images in the input directory and then train them to get the clear version as output directory labels and train the loss function over it . Thus when we test on a clear picture it will increase its resolution .
+
+> The dimensionality reduction works on the basic working principal of AE when the state is reduced to latent space for representation we extract the latent space as it can represent the data efficiently . Generally we use PCA for it But AE perform better them PCA in almost all the given conditions . 
+
+Noise Reduction using AutoEncoders :
+
+(https://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+
+
+Image Super resolution using AutoEncoders:
+
+(https://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+
+
+Dimensionality Reduction using Autoencoders :
+
+(https://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders) 
 
 
 
