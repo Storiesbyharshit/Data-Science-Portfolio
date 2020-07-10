@@ -79,6 +79,8 @@ the same image to train the network in the way we can extract the desired result
 * [Dimensionality Reduction using Autoencoders !]https://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders) 
 
 
+ [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ [link to Google!](http://google.com)
  [link to Google!](http://google.com)
 
 
