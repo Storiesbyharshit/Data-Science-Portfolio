@@ -73,11 +73,13 @@ the same image to train the network in the way we can extract the desired result
 
 
  * [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ > Training a autoencoder to reduce noise in the given image .
  
  * [Image Super resolution using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ > Training a autoencoder to increase the resolution of a image .
  
  * [Dimensionality Reduction using Autoencoders](http://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders)
- 
+ > Training a autoencoder and extracting the reduced dimensions from the bottleneck to reduce the dimensions required to represent and visualise data .
 
 
 <p align="center">
