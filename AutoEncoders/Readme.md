@@ -85,61 +85,7 @@ Dimensionality Reduction using Autoencoders :
 (https://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders) 
 
 
-### Software and Hardware Requirements
-Software and hardware requirements are as follows:
 
-
-
-
-• *If training on your own system :
-
-o Python 3
-
-o Tensorflow 2.0
-
-o Scikit-Learn
-
-o Essential Python Libraries
-
-o Powerful RAM and NVIDIA GPU 
-
-o Anaconda
-
-o Spyder 
-
-o Jupyter Notebook
-
-
-
-
-
-
-
-
-• *If training online:
-
-o Jupyter Notebook
-
-o Kaggle GPUService / GoogleColab
-
-o Python 3
-
-o Essential Libraries
-
-##### Modules used are namely :
-
-
-• tensorflow
-
-• tensorflow.Keras
-
-• sklearn
-
-• matplotlib
-
-• numpy
-
-• pandas
 
 
 <p align="center">
