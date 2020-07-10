@@ -70,7 +70,7 @@ the same image to train the network in the way we can extract the desired result
 
 
 
-* [Noise Reduction using AutoEncoders!] (https://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+* [Noise Reduction using AutoEncoders] (https://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
 
 
 * [Image Super resolution using AutoEncoders!] https://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
