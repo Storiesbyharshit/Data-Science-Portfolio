@@ -32,7 +32,7 @@ OpenCV | OpenCV is a library of programming functions mainly aimed at real-time 
   
  
 </p>
- 
+ <p align="center">
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/Storiesbyharshit/Data-Science-Portfolio?style=flat-square">
