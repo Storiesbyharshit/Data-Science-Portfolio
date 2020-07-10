@@ -75,13 +75,14 @@ The dimensionality reduction works on the basic working principal of AE when the
 
 
 
- * [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ * [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/AutoEncoders/Noise-Reduction-using-Autoencoders)
  > Training a autoencoder to reduce noise in the given image .
  
- * [Image Super resolution using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ * [Image Super resolution using AutoEncoders](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/AutoEncoders/Image-SuperResolution-using-AutoEncoders)
  > Training a autoencoder to increase the resolution of a image .
  
- * [Dimensionality Reduction using Autoencoders](http://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders)
+ * [Dimensionality Reduction using Autoencoders](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/AutoEncoders/Dimensionality-Reduction-using-AutoEncoders)
+
  > Training a autoencoder and extracting the reduced dimensions from the bottleneck to reduce the dimensions required to represent and visualise data .
 
 
