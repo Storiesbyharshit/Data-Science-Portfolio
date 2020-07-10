@@ -16,8 +16,13 @@ Deep learning architectures such as deep neural networks, deep belief networks, 
 
 >* Large amount of data required.
 >* Computationally expensive to train.
-
 <p align="center">
-  <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+ <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/700/1*LkKz4wtZNBo5i-Vc8DWhTA.png">
+
+  
+ 
+</p>
+<p align="center">
+  <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/700/0*BrC7o-KTt54z948C.jpg">
   
 </p>
