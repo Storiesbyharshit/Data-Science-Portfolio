@@ -42,11 +42,8 @@ OpenCV | OpenCV is a library of programming functions mainly aimed at real-time 
  >  [**Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
  
  <p align="center">
-  <br>
-  <a href="#">[**Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)</a> 
-  
-  <br><br>
-  
+
+  [**Connect with me on LinkedIn**](https://www.linkedin.com/in/storiesbyharshit/)
 </p>
  
 </p>
