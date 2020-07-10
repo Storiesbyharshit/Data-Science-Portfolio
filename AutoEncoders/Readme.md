@@ -31,10 +31,15 @@ structure can be learned and consequently leveraged when forcing the input throu
 network's bottleneck.
 
 • It applies backpropagation, by setting the target value same as input.
+
 • It tries to predict x from x, without need for labels.
+
 • It tries to learn an approximation of an “identity” function.
+
 • It represents original input from compressed data.
+
 • It consists of narrow hidden layer between Encoder & Decoder
+
 
 #### Software and Hardware Requirements
 Software and hardware requirements are as follows:
