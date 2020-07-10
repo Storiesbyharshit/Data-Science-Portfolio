@@ -62,11 +62,14 @@ the same image to train the network in the way we can extract the desired result
 
 
 
-> Like in the noise reduction model we will label our input dataset as a noisy image in the working directory and the output labels to clean images and train the model to generate noiseless images and reducing the loss function over it .
+ Like in the noise reduction model we will label our input dataset as a noisy image in the working directory and the output labels to clean images and train the model to generate noiseless images and reducing the loss function over it .
+ 
 
-> In the super resolution we will blur the images in the input directory and then train them to get the clear version as output directory labels and train the loss function over it . Thus when we test on a clear picture it will increase its resolution .
+ In the super resolution we will blur the images in the input directory and then train them to get the clear version as output directory labels and train the loss function over it . Thus when we test on a clear picture it will increase its resolution .
 
-> The dimensionality reduction works on the basic working principal of AE when the state is reduced to latent space for representation we extract the latent space as it can represent the data efficiently . Generally we use PCA for it But AE perform better them PCA in almost all the given conditions . 
+
+
+The dimensionality reduction works on the basic working principal of AE when the state is reduced to latent space for representation we extract the latent space as it can represent the data efficiently . Generally we use PCA for it But AE perform better them PCA in almost all the given conditions . 
 
 
 
