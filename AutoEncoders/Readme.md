@@ -19,6 +19,11 @@ forcing the input through the network's bottleneck.
 
 _**The training then involves using back propagation in order to minimize the network’s reconstruction loss.**_
 
+<p align="center">
+  <img alt="For-the-Badge-Python" src="https://blog.keras.io/img/ae/autoencoder_schema.jpg">
+  
+</p>
+
 
 Autoencoder is a neural network (NN), as well as an un-supervised learning (feature learning)
 algorithm. Autoencoders are an unsupervised learning technique in which we leverage neural
@@ -41,10 +46,7 @@ network's bottleneck.
 • It consists of narrow hidden layer between Encoder & Decoder
 
 
-<p align="center">
-  <img alt="For-the-Badge-Python" src="https://blog.keras.io/img/ae/autoencoder_schema.jpg">
-  
-</p>
+
 
 
 
