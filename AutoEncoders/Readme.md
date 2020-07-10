@@ -88,7 +88,10 @@ Dimensionality Reduction using Autoencoders :
 ### Software and Hardware Requirements
 Software and hardware requirements are as follows:
 
-• If training on your own system :
+
+
+
+• *If training on your own system :
 
 o Python 3
 
@@ -109,7 +112,11 @@ o Jupyter Notebook
 
 
 
-• If training online:
+
+
+
+
+• *If training online:
 
 o Jupyter Notebook
 
