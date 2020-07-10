@@ -41,19 +41,31 @@ network's bottleneck.
 • It consists of narrow hidden layer between Encoder & Decoder
 
 
+
+
+
 #### Software and Hardware Requirements
 Software and hardware requirements are as follows:
 
 • If training on your own system :
 
 o Python 3
+
 o Tensorflow 2.0
+
 o Scikit-Learn
+
 o Essential Python Libraries
+
 o Powerful RAM and NVIDIA GPU 
+
 o Anaconda
+
 o Spyder 
+
 o Jupyter Notebook
+
+
 
 
 • If training online:
@@ -96,11 +108,15 @@ We can twist these networks a little and take advantages of the reduced latent s
 the reduced dimensions and train these networks over multiple images of the desired output of
 the same image to train the network in the way we can extract the desired results from the dataset
 
+
+
 > Like in the noise reduction model we will label our input dataset as a noisy image in the working directory and the output labels to clean images and train the model to generate noiseless images and reducing the loss function over it .
 
 > In the super resolution we will blur the images in the input directory and then train them to get the clear version as output directory labels and train the loss function over it . Thus when we test on a clear picture it will increase its resolution .
 
 > The dimensionality reduction works on the basic working principal of AE when the state is reduced to latent space for representation we extract the latent space as it can represent the data efficiently . Generally we use PCA for it But AE perform better them PCA in almost all the given conditions . 
+
+
 
 Noise Reduction using AutoEncoders :
 
