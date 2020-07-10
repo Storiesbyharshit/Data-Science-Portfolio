@@ -20,6 +20,37 @@ forcing the input through the network's bottleneck.
 _**The training then involves using back propagation in order to minimize the network’s reconstruction loss.**_
 
 
+Autoencoder is a neural network (NN), as well as an un-supervised learning (feature learning)
+algorithm. Autoencoders are an unsupervised learning technique in which we leverage neural
+networks for the task of representation learning. Specifically, we'll design a neural network
+architecture such that we impose a bottleneck in the network which forces a compressed
+knowledge representation of the original input. If the input features were each independent of
+one another, this compression and subsequent reconstruction would be a very difficult task.
+However, if some sort of structure exists in the data (ie. correlations between input features), this
+structure can be learned and consequently leveraged when forcing the input through the
+network's bottleneck.
+
+• It applies backpropagation, by setting the target value same as input.
+• It tries to predict x from x, without need for labels.
+• It tries to learn an approximation of an “identity” function.
+• It represents original input from compressed data.
+• It consists of narrow hidden layer between Encoder & Decoder
+
+#### Software and Hardware Requirements
+Software and hardware requirements are as follows:
+• If training on your own system :
+o Python 3 o Tensorflow 2.0 o Scikit-Learn o Essential Python Libraries
+o Powerful RAM and NVIDIA GPU o Anaconda o Spyder o Jupyter Notebook
+
+• If training online:
+o Jupyter Notebook
+o Kaggle GPUService / GoogleColab
+o Python 3
+o Essential Libraries
+
+
+
+
 <p align="center">
   <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   
