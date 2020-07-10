@@ -72,9 +72,12 @@ the same image to train the network in the way we can extract the desired result
 
 
 
- [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
- [Image Super resolution using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
- [Dimensionality Reduction using Autoencoders](http://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders)
+ * [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ 
+ * [Image Super resolution using AutoEncoders](http://github.com/Storiesbyharshit/Noise-Reduction-using-Autoencoders)
+ 
+ * [Dimensionality Reduction using Autoencoders](http://github.com/Storiesbyharshit/Dimensionality-Reduction-using-AutoEncoders)
+ 
 
 
 <p align="center">
