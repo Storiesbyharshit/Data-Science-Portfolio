@@ -46,7 +46,10 @@ network's bottleneck.
 • It consists of narrow hidden layer between Encoder & Decoder
 
 
-
+<p align="center">
+  <img alt="For-the-Badge-Python" src="https://www.jeremyjordan.me/content/images/2018/03/Screen-Shot-2018-03-07-at-8.24.37-AM.png">
+  
+</p>
 
 
 
