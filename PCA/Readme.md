@@ -23,6 +23,8 @@ to avoid multicollinearity.
   <img alt="For-the-Badge-Python" src="http://i.stack.imgur.com/gZMOV.png">
   
 </p>
+
+
 ### Content :
 
 *  [Removing-Multicollinearity-using-PCA](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/PCA/Removing-Multicollinearity-using-PCA)
