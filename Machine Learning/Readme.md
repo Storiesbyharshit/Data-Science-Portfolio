@@ -55,6 +55,11 @@ We can define the machine learning workflow in following stages.
 * Training and testing the model
 * Evaluation
 
+<p align="center">
+  <img alt="For-the-Badge-Python" src="https://static.packt-cdn.com/products/9781783980284/graphics/230f1938-fd69-424e-b94e-225038e27c37.png">
+  
+</p>
+
 
 
 ###### Difference between Machine learning and Artificial Intelligence
