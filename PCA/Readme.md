@@ -17,6 +17,10 @@ One of the distinct advantages associated with the principal component analysis 
 One makes use of principal component analysis to eliminate the number of variables or when there are too many predictors compared to number of observations or
 to avoid multicollinearity.
 
+*  [Removing-Multicollinearity-using-PCA](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/PCA/Removing-Multicollinearity-using-PCA)
+*  [Wine-Classification-PCA](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/PCA/Wine-Classification-PCA)
+
+
 <p align="center">
   <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   
