@@ -18,7 +18,9 @@ One makes use of principal component analysis to eliminate the number of variabl
 to avoid multicollinearity.
 
 *  [Removing-Multicollinearity-using-PCA](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/PCA/Removing-Multicollinearity-using-PCA)
+> Removing the existing multicollinearity in the dataset using PCA.
 *  [Wine-Classification-PCA](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/PCA/Wine-Classification-PCA)
+> Reducing features of the dataset to principal components and then performing and visualising decision boundries.
 
 
 <p align="center">
