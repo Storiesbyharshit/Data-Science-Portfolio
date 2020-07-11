@@ -47,6 +47,12 @@ Example: Some tuples may have missing values for certain attributes, an, in this
 * Building models with suitable algorithms and techniques on the training set.
 * Testing our conceptualized model with data which was not fed to the model at the time of training and evaluating its performance using metrics such as F1 score, precision and recall.
 
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/1986/1*iWkJS33mwmOprcKiQtaLaA.jpeg">
+  
+</p>
+
 #### Workflow 
 We can define the machine learning workflow in following stages.
 * Gathering data
