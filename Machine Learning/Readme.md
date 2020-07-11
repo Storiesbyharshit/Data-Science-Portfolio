@@ -89,7 +89,7 @@ AI leads to intelligence or wisdom. | 	ML leads to knowledge.
 
 
 <p align="center">
-  <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/650/1*-XKVI5SAEpffNR7BusdvNQ.png\">
+  <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/650/1*-XKVI5SAEpffNR7BusdvNQ.png">
   
 </p>
 
