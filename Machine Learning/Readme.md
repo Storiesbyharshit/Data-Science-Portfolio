@@ -86,6 +86,13 @@ It leads to develop a system to mimic human to respond behave in a circumstances
 AI will go for finding the optimal solution. | 	ML will go for only solution for that whether it is optimal or not.
 AI leads to intelligence or wisdom. | 	ML leads to knowledge.
 
+
+
+<p align="center">
+  <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/650/1*-XKVI5SAEpffNR7BusdvNQ.png\">
+  
+</p>
+
 <p align="center">
   <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   
