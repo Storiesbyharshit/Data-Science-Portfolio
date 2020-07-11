@@ -83,6 +83,7 @@ The dimensionality reduction works on the basic working principal of AE when the
 
 
 
+### Content :
 
  * [Noise Reduction using AutoEncoders](http://github.com/Storiesbyharshit/Data-Science-Portfolio/tree/master/AutoEncoders/Noise-Reduction-using-Autoencoders)
  > Training a autoencoder to reduce noise in the given image .
