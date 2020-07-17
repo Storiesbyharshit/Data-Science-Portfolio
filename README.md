@@ -28,6 +28,7 @@ OpenCV | OpenCV is a library of programming functions mainly aimed at real-time 
 
 <p align="center">
  <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/700/1*LkKz4wtZNBo5i-Vc8DWhTA.png">
+ <img alt="For-the-Badge-Python" src="https://miro.medium.com/max/700/1*JupRAYk4Q2xyEBWVV4SNyg.jpeg">
 
   
  
