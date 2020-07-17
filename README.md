@@ -16,6 +16,7 @@ MatplotLib | Matplotlib is a comprehensive library for creating static, animated
 Seaborn | Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 Tensorflow | TensorFlow is an end-to-end open source platform for machine learning and deep learning used to Build and train ML models easily using intuitive high-level APIs like Keras with eager execution, which makes for immediate model iteration and easy debugging.
 Keras | Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation.
+PyTorch | PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing, primarily developed by Facebook's AI Research lab.
 Tensorflow.js |Develop ML models in JavaScript, and use ML directly in the browser.
 OpenCV | OpenCV is a library of programming functions mainly aimed at real-time computer vision. 
 
