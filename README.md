@@ -5,7 +5,7 @@
 
 ### Libraries used :
 
-Library | Usage
+**Library** | **Usage**
 ------------ | -------------
 Pandas | Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,built on top of the Python programming language.
 Numpy | NumPy is a python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
