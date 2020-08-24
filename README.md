@@ -25,16 +25,7 @@ OpenCV | OpenCV is a library of programming functions mainly aimed at real-time 
   <img alt="For-the-Badge-Python" src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   
   
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Storiesbyharshit/count.svg" />
-</p>
 
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-  
  
 </p>
 
